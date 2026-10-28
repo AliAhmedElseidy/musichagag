@@ -1,0 +1,6 @@
+{
+  "name": "مهرجان حجاج مرسي حجاج - Lyria DJ Studio",
+  "description": "استوديو توليد مهرجانات إلكترو شعبي مصري بالذكاء الاصطناعي لحجاج مرسي حجاج بتقنية Lyria مع إيقاعات دربوكة ومزمار بلدي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
